@@ -1,2 +1,2 @@
 # Report
-Final report and related documents for IJC437.
+This folder contains the final coursework report submitted for IJC437.
