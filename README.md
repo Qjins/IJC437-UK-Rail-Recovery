@@ -40,16 +40,11 @@ IJC437-UK-Rail-Recovery/
 │   └─ processed/    # Cleaned and indexed datasets (2019 = 100)
 │
 ├─ 02_scripts/
-│   ├─ 01_data_import.R
-│   ├─ 02_data_cleaning.R
-│   ├─ 03_eda_summary.R
-│   ├─ 04_analysis_recovery_gap.R
-│   └─ 05_analysis_recovery_speed.R
+│   └─ analysis_recovery_gap.R   # Data cleaning, indexing, recovery gap analysis, and visualisation
 │
 ├─ 03_figures/       # Figures used in the report
 │
 ├─ 04_methodology/
-│   └─ methodology_diagram.png
 │
 ├─ 05_report/
 │   └─ IJC437_Report.docx
