@@ -17,9 +17,25 @@
 library(tidyverse)
 
 # ------------------------------------------------------------
-# 0. Safety check: working directory
+# 0. Set working directory to project root (robust)
 # ------------------------------------------------------------
-cat("Current working directory:\n")
+current_wd <- getwd()
+
+# If you're running from /02_scripts, go one level up
+if (basename(current_wd) == "02_scripts") {
+  setwd(dirname(current_wd))
+}
+
+# If still not at project root, try to detect by folder names
+if (!dir.exists("01_data") || !dir.exists("03_figures")) {
+  stop(
+    "Project root not detected.\n",
+    "Your current working directory is: ", getwd(), "\n",
+    "Please set working directory to the repository root: IJC437-UK-Rail-Recovery"
+  )
+}
+
+cat("Working directory set to project root:\n")
 print(getwd())
 
 # ------------------------------------------------------------
