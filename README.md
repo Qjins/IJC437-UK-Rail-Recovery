@@ -47,6 +47,7 @@ IJC437-UK-Rail-Recovery/
 ├─ 04_methodology/
 │
 ├─ 05_report/
-│   └─ IJC437_Report.docx
+│   ├─ IJC437_Uneven_Recovery_UK_Rail_Passenger_Usage.docx
+│   └─ IJC437_Uneven_Recovery_UK_Rail_Passenger_Usage.pdf
 │
 └─ README.md
