@@ -1,0 +1,12 @@
+region,cluster,recovery_gap,mean_gap,cluster_label
+Wales,1,-3.4,-10.6,Weaker recovery
+East of England,1,-10.5,-10.6,Weaker recovery
+South East,1,-11.1,-10.6,Weaker recovery
+Scotland,1,-12.3,-10.6,Weaker recovery
+West Midlands,1,-15.7,-10.6,Weaker recovery
+North East,2,17.4,3.8666666666666663,Stronger recovery
+South West,2,6.7,3.8666666666666663,Stronger recovery
+London,2,5.1,3.8666666666666663,Stronger recovery
+East Midlands,2,-0.1,3.8666666666666663,Stronger recovery
+Yorkshire and the Humber,2,-1.9,3.8666666666666663,Stronger recovery
+North West,2,-4,3.8666666666666663,Stronger recovery

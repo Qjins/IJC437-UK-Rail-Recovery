@@ -1,0 +1,12 @@
+region,n_stations,median_index,q1,q3,share_recovered_pct
+North East,53,126.5,110,151.4,84.9
+South West,167,116,98.8,135.9,73.1
+Wales,222,107,87.1,122.5,57.2
+Yorkshire and the Humber,187,104.5,84,127,57.8
+East Midlands,108,102.2,85.3,117.9,53.7
+North West,334,97.8,83.2,119.8,47.6
+East of England,214,94.8,82.9,109.3,42.5
+West Midlands,155,92.5,77.3,106,32.3
+South East,430,90.3,78.4,103.8,31.6
+Scotland,355,89,77.4,102.1,28.5
+London,329,88.5,77.8,107.6,31.6

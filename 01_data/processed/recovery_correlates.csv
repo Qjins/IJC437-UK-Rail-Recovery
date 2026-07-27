@@ -1,0 +1,4 @@
+variable,pearson_r,pearson_p,spearman_rho,spearman_p
+cagr_2010_2019,-0.29,0.38,-0.15,0.65
+log_journeys_2019,-0.38,0.249,-0.45,0.17
+interregional_share_2019,0.22,0.525,0.28,0.401
